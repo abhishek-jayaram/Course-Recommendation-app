@@ -1,0 +1,316 @@
+Student ID,Class,Gender,Mathematics,Physics,History,English,Biology,Marks,Course,Stream
+1141,5th ,male,64,81,60,87,74,73.47,PUC,Science
+1142,5th ,female,57,50,51,51,55,71.22,Diplomma,English
+1143,5th ,female,47,48,60,71,61,74.56,PUC,Commerce
+1144,5th ,female,46,72,60,38,29,72.89,Polytechnic,Accounting
+1145,5th ,female,49,45,60,63,66,70.11,PUC,Arts
+1146,5th ,male,60,60,61,39,65,65.04,Diplomma,Computers
+1147,5th ,male,60,43,63,52,71,77.11,PUC,Science
+1148,5th ,female,60,38,63,60,70,64.75,Polytechnic,Hospital Management
+1149,5th ,female,61,60,68,66,80,77.92,PUC,Science
+1150,5th ,female,60,61,69,60,73,76.5,Diplomma,English
+1151,5th ,male,61,66,69,61,65,76.83,PUC,Commerce
+1152,5th ,female,73,75,71,76,85,83.65,Polytechnic,Accounting
+1153,5th ,female,70,60,71,71,87,77,PUC,Arts
+1154,5th ,male,67,65,73,74,87,80.08,Diplomma,Fashion Designing
+1155,5th ,male,73,60,76,55,77,81.67,PUC,Science
+1156,5th ,female,72,63,76,70,81,82.07,Polytechnic,Computers
+1157,5th ,male,74,70,76,61,68,74.11,PUC,Science
+1158,5th ,male,68,67,76,55,85,81.5,Diplomma,English
+1159,5th ,male,60,68,76,54,76,75.64,PUC,Commerce
+1160,5th ,male,67,73,78,64,83,76.46,Polytechnic,Accounting
+1161,5th ,male,63,64,78,71,69,75.57,PUC,Arts
+1162,5th ,male,82,82,78,92,92,83.13,Diplomma,Computers
+1163,5th ,female,72,68,78,55,77,79.7,PUC,Science
+1164,5th ,female,71,73,79,83,88,83.98,Polytechnic,Hospital Management
+1165,5th ,male,64,62,80,76,81,79.56,PUC,Science
+1166,5th ,female,76,67,80,71,71,78.54,Diplomma,English
+1167,5th ,female,67,46,80,71,82,77.76,PUC,Commerce
+1168,5th ,female,68,72,81,71,86,83.06,Polytechnic,Accounting
+1169,5th ,male,73,80,83,85,79,84.04,PUC,Arts
+1170,5th ,female,77,64,83,64,95,85.29,Diplomma,Fashion Designing
+1171,5th ,female,76,75,83,85,88,85.04,PUC,Science
+1172,5th ,male,87,98,83,93,95,87.04,Polytechnic,Computers
+1173,5th ,male,63,73,83,61,72,74.17,PUC,Science
+1174,5th ,male,82,90,83,90,77,82.71,Diplomma,English
+1175,5th ,female,67,62,83,85,82,81.29,PUC,Commerce
+1176,5th ,female,69,83,83,73,85,85.55,Polytechnic,Accounting
+1177,5th ,female,85,83,85,88,85,86.43,PUC,Arts
+1178,5th ,female,73,61,85,80,90,85.11,Diplomma,Computers
+1179,5th ,female,72,76,85,85,91,81.3,PUC,Science
+1180,5th ,female,80,75,85,83,86,84.01,Polytechnic,Hospital Management
+1181,5th ,male,62,73,85,76,79,83.19,PUC,Science
+1182,5th ,female,88,78,85,95,97,90.66,Diplomma,English
+1183,5th ,female,74,81,86,87,82,83.94,PUC,Commerce
+1184,5th ,female,64,55,86,71,67,81.07,Polytechnic,Accounting
+1185,5th ,female,84,62,86,80,78,81.61,PUC,Arts
+1186,5th ,female,80,78,87,90,90,87.85,Diplomma,Fashion Designing
+1187,5th ,female,60,60,87,73,82,80.6,PUC,Science
+1188,5th ,male,66,80,87,83,79,74.43,Polytechnic,Computers
+1189,5th ,female,68,80,87,92,80,83.15,PUC,Science
+1190,5th ,female,67,71,87,80,87,82.55,Diplomma,English
+1191,6th,male,82,72,87,77,82,79,PUC,Commerce
+1192,6th,female,76,61,87,77,90,84.45,Polytechnic,Accounting
+1193,6th,female,70,71,87,83,90,85.02,PUC,Arts
+1194,6th,female,76,53,87,55,82,77.53,Diplomma,Computers
+1195,6th,female,65,60,88,75,78,78.08,PUC,Science
+1196,6th,female,87,75,88,91,95,87.44,Polytechnic,Hospital Management
+1197,6th,female,69,68,88,78,78,81.71,PUC,Science
+1198,6th,female,75,80,88,64,86,85.72,Diplomma,English
+1199,6th,female,93,71,88,85,91,88.35,PUC,Commerce
+1200,6th,male,62,75,89,80,75,79.34,Polytechnic,Accounting
+1201,6th,female,62,66,89,93,84,84.7,PUC,Arts
+1202,6th,male,66,60,89,66,76,78.39,Diplomma,Fashion Designing
+1203,6th,female,72,71,89,71,82,77.53,PUC,Science
+1204,6th,female,73,53,89,88,81,81.03,Polytechnic,Computers
+1205,6th,female,81,71,90,68,79,83.79,PUC,Science
+1206,6th,male,95,76,90,87,86,86.37,Diplomma,English
+1207,6th,female,81,80,90,83,94,87.3,PUC,Commerce
+1208,6th,female,82,77,91,86,75,84.41,Polytechnic,Accounting
+1209,6th,female,82,90,91,93,93,93.06,PUC,Arts
+1210,6th,female,76,88,91,80,89,87.3,Diplomma,Computers
+1211,6th,female,85,75,91,92,92,87.42,PUC,Science
+1212,6th,female,88,72,92,85,94,84.33,Polytechnic,Hospital Management
+1213,6th,male,90,87,92,83,97,89.41,PUC,Science
+1214,6th,female,79,48,92,85,85,84.11,Diplomma,English
+1215,6th,female,80,78,92,87,95,87.26,PUC,Commerce
+1216,6th,female,95,86,92,96,95,91.9,Polytechnic,Accounting
+1217,6th,female,91,68,92,87,92,87.77,PUC,Arts
+1218,6th,female,73,73,92,94,92,84.68,Diplomma,Fashion Designing
+1219,6th,male,81,61,92,17,88,63.49,PUC,Science
+1220,6th,female,87,87,92,92,90,89.95,Polytechnic,Computers
+1221,6th,female,75,70,92,73,84,85.18,PUC,Science
+1222,6th,female,82,77,92,86,90,85.84,Diplomma,English
+1223,6th,male,84,67,92,94,82,84.18,PUC,Commerce
+1224,6th,female,76,75,93,83,85,85,Polytechnic,Accounting
+1225,6th,female,94,81,93,90,91,90.62,PUC,Arts
+1226,6th,female,92,73,94,87,94,87.12,Diplomma,Computers
+1227,6th,female,83,87,94,88,79,84.63,PUC,Science
+1228,6th,female,95,65,94,97,97,88.62,Polytechnic,Hospital Management
+1229,6th,female,84,86,94,94,94,87.87,PUC,Science
+1230,6th,male,77,60,94,78,88,86.01,Diplomma,English
+1231,6th,male,87,92,95,81,89,89.46,PUC,Commerce
+1232,6th,female,92,86,95,94,95,86.96,Polytechnic,Accounting
+1233,6th,male,82,77,95,85,94,86.87,PUC,Arts
+1234,6th,female,93,82,95,95,94,91.61,Diplomma,Fashion Designing
+1235,6th,female,89,86,96,96,96,88.54,PUC,Science
+1236,6th,female,82,81,97,97,88,87.63,Polytechnic,Computers
+1237,6th,male,94,100,97,96,95,91.74,Polytechnic,Science
+1238,6th,male,98,90,97,98,83,91.14,PUC,English
+1239,6th,male,84,82,97,99,89,90.31,Diplomma,Commerce
+1240,6th,male,87,70,97,95,91,88.1,PUC,Accounting
+1241,7th,female,87,83,98,92,93,88.34,Diplomma,Arts
+1242,7th,male,98,77,98,95,96,89.84,PUC,Computers
+1243,7th,male,83,80,98,91,93,88.82,Diplomma,Science
+1244,7th,male,92,82,99,91,94,86.6,PUC,Hospital Management
+1245,7th,male,93,97,100,99,97,93.71,Diplomma,Science
+1246,7th,male,64,81,60,87,74,73.47,PUC,English
+1247,7th,female,57,50,51,51,55,71.22,Diplomma,Commerce
+1248,7th,female,47,48,60,71,61,74.56,PUC,Accounting
+1249,7th,female,46,72,60,38,29,72.89,Diplomma,Arts
+1250,7th,female,49,45,60,63,66,70.11,PUC,Fashion Designing
+1251,7th,male,60,60,61,39,65,65.04,Polytechnic,Science
+1252,7th,male,60,43,63,52,71,77.11,PUC,Computers
+1253,7th,female,60,38,63,60,70,64.75,Diplomma,Science
+1254,7th,female,61,60,68,66,80,77.92,PUC,English
+1255,7th,female,60,61,69,60,73,76.5,Polytechnic,Commerce
+1256,7th,male,61,66,69,61,65,76.83,PUC,Accounting
+1257,7th,female,73,75,71,76,85,83.65,Diplomma,Arts
+1258,7th,female,70,60,71,71,87,77,PUC,Computers
+1259,7th,male,67,65,73,74,87,80.08,PUC,Science
+1260,7th,male,73,60,76,55,77,81.67,PUC,Hospital Management
+1261,7th,female,72,63,76,70,81,82.07,Diplomma,Science
+1262,7th,male,74,70,76,61,68,74.11,PUC,English
+1263,7th,male,68,67,76,55,85,81.5,PUC,Commerce
+1264,7th,male,60,68,76,54,76,75.64,Diplomma,Accounting
+1265,7th,male,67,73,78,64,83,76.46,PUC,Arts
+1266,7th,male,63,64,78,71,69,75.57,Polytechnic,Fashion Designing
+1267,7th,male,82,82,78,92,92,83.13,PUC,Science
+1268,7th,female,72,68,78,55,77,79.7,PUC,Computers
+1269,7th,female,71,73,79,83,88,83.98,Diplomma,Science
+1270,7th,male,64,62,80,76,81,79.56,PUC,English
+1271,7th,female,76,67,80,71,71,78.54,Polytechnic,Commerce
+1272,7th,female,67,46,80,71,82,77.76,PUC,Accounting
+1273,7th,female,68,72,81,71,86,83.06,PUC,Arts
+1274,7th,male,73,80,83,85,79,84.04,Diplomma,Computers
+1275,7th,female,77,64,83,64,95,85.29,PUC,Science
+1276,7th,female,76,75,83,85,88,85.04,PUC,Hospital Management
+1277,7th,male,87,98,83,93,95,87.04,Diplomma,Science
+1278,7th,male,63,73,83,61,72,74.17,PUC,English
+1279,7th,male,82,90,83,90,77,82.71,Polytechnic,Commerce
+1280,7th,female,67,62,83,85,82,81.29,PUC,Accounting
+1281,7th,female,69,83,83,73,85,85.55,Diplomma,Arts
+1282,7th,female,85,83,85,88,85,86.43,PUC,Fashion Designing
+1283,7th,female,73,61,85,80,90,85.11,PUC,Science
+1284,7th,female,72,76,85,85,91,81.3,Diplomma,Computers
+1285,7th,female,80,75,85,83,86,84.01,PUC,Science
+1286,7th,male,62,73,85,76,79,83.19,PUC,English
+1287,7th,female,88,78,85,95,97,90.66,Diplomma,Commerce
+1288,7th,female,74,81,86,87,82,83.94,PUC,Accounting
+1289,7th,female,64,55,86,71,67,81.07,PUC,Arts
+1290,7th,female,84,62,86,80,78,81.61,Diplomma,Computers
+1291,7th,female,80,78,87,90,90,87.85,PUC,Science
+1292,7th,female,60,60,87,73,82,80.6,PUC,Hospital Management
+1293,7th,male,66,80,87,83,79,74.43,Diplomma,Science
+1294,8th,female,68,80,87,92,80,83.15,PUC,English
+1295,8th,female,67,71,87,80,87,82.55,Polytechnic,Commerce
+1296,8th,male,82,72,87,77,82,79,PUC,Accounting
+1297,8th,female,76,61,87,77,90,84.45,PUC,Arts
+1298,8th,female,70,71,87,83,90,85.02,PUC,Fashion Designing
+1299,8th,female,76,53,87,55,82,77.53,Diplomma,Science
+1300,8th,female,65,60,88,75,78,78.08,PUC,Computers
+1301,8th,female,87,75,88,91,95,87.44,PUC,Science
+1302,8th,female,69,68,88,78,78,81.71,Diplomma,English
+1303,8th,female,75,80,88,64,86,85.72,PUC,Commerce
+1304,8th,female,93,71,88,85,91,88.35,PUC,Accounting
+1305,8th,male,62,75,89,80,75,79.34,Diplomma,Arts
+1306,8th,female,62,66,89,93,84,84.7,PUC,Computers
+1307,8th,male,66,60,89,66,76,78.39,PUC,Science
+1308,8th,female,72,71,89,71,82,77.53,Diplomma,Hospital Management
+1309,8th,female,73,53,89,88,81,81.03,PUC,Science
+1310,8th,female,81,71,90,68,79,83.79,PUC,English
+1311,8th,male,95,76,90,87,86,86.37,Diplomma,Commerce
+1312,8th,female,81,80,90,83,94,87.3,PUC,Accounting
+1313,8th,female,82,77,91,86,75,84.41,PUC,Arts
+1314,8th,female,82,90,91,93,93,93.06,PUC,Fashion Designing
+1315,8th,female,76,88,91,80,89,87.3,Diplomma,Science
+1316,8th,female,85,75,91,92,92,87.42,PUC,Computers
+1317,8th,female,88,72,92,85,94,84.33,PUC,Science
+1318,8th,male,90,87,92,83,97,89.41,Diplomma,English
+1319,8th,female,79,48,92,85,85,84.11,PUC,Commerce
+1320,8th,female,80,78,92,87,95,87.26,PUC,Accounting
+1321,8th,female,95,86,92,96,95,91.9,Diplomma,Arts
+1322,8th,female,91,68,92,87,92,87.77,PUC,Computers
+1323,8th,female,73,73,92,94,92,84.68,PUC,Science
+1324,8th,male,81,61,92,17,88,63.49,Diplomma,Hospital Management
+1325,8th,female,87,87,92,92,90,89.95,PUC,Science
+1326,8th,female,75,70,92,73,84,85.18,PUC,English
+1327,8th,female,82,77,92,86,90,85.84,Diplomma,Commerce
+1328,8th,male,84,67,92,94,82,84.18,PUC,Accounting
+1329,8th,female,76,75,93,83,85,85,PUC,Arts
+1330,8th,female,94,81,93,90,91,90.62,PUC,Fashion Designing
+1331,8th,female,92,73,94,87,94,87.12,Diplomma,Science
+1332,8th,female,83,87,94,88,79,84.63,PUC,Computers
+1333,8th,female,95,65,94,97,97,88.62,PUC,Science
+1334,8th,female,84,86,94,94,94,87.87,Diplomma,English
+1335,8th,male,77,60,94,78,88,86.01,PUC,Commerce
+1336,8th,male,87,92,95,81,89,89.46,PUC,Accounting
+1337,8th,female,92,86,95,94,95,86.96,Diplomma,Arts
+1338,8th,male,82,77,95,85,94,86.87,PUC,Computers
+1339,8th,female,93,82,95,95,94,91.61,PUC,Science
+1340,8th,female,89,86,96,96,96,88.54,Diplomma,Hospital Management
+1341,8th,female,82,81,97,97,88,87.63,PUC,Science
+1342,9th,male,94,100,97,96,95,91.74,PUC,English
+1343,9th,male,98,90,97,98,83,91.14,Diplomma,Commerce
+1344,9th,male,84,82,97,99,89,90.31,PUC,Accounting
+1345,9th,male,87,70,97,95,91,88.1,Polytechnic,Arts
+1346,9th,female,87,83,98,92,93,88.34,PUC,Fashion Designing
+1347,9th,male,98,77,98,95,96,89.84,Diplomma,Science
+1348,9th,male,83,80,98,91,93,88.82,PUC,Computers
+1349,9th,male,92,82,99,91,94,86.6,Polytechnic,Science
+1350,9th,male,93,97,100,99,97,93.71,PUC,English
+1351,9th,male,64,81,60,87,74,73.47,Diplomma,Commerce
+1352,9th,female,57,50,51,51,55,71.22,PUC,Accounting
+1353,9th,female,47,48,60,71,61,74.56,Polytechnic,Arts
+1354,9th,female,46,72,60,38,29,72.89,Polytechnic,Computers
+1355,9th,female,49,45,60,63,66,70.11,PUC,Science
+1356,9th,male,60,60,61,39,65,65.04,Diplomma,Hospital Management
+1357,9th,male,60,43,63,52,71,77.11,PUC,Science
+1358,9th,female,60,38,63,60,70,64.75,Polytechnic,English
+1359,9th,female,61,60,68,66,80,77.92,PUC,Commerce
+1360,9th,female,60,61,69,60,73,76.5,Diplomma,Accounting
+1361,9th,male,61,66,69,61,65,76.83,PUC,Arts
+1362,9th,female,73,75,71,76,85,83.65,Polytechnic,Fashion Designing
+1363,9th,female,70,60,71,71,87,77,PUC,Science
+1364,9th,male,67,65,73,74,87,80.08,Diplomma,Computers
+1365,9th,male,73,60,76,55,77,81.67,PUC,Science
+1366,9th,female,72,63,76,70,81,82.07,Polytechnic,English
+1367,9th,male,74,70,76,61,68,74.11,PUC,Commerce
+1368,9th,male,68,67,76,55,85,81.5,Diplomma,Accounting
+1369,9th,male,60,68,76,54,76,75.64,PUC,Arts
+1370,9th,male,67,73,78,64,83,76.46,Polytechnic,Computers
+1371,9th,male,63,64,78,71,69,75.57,PUC,Science
+1372,9th,male,82,82,78,92,92,83.13,Diplomma,Hospital Management
+1373,9th,female,72,68,78,55,77,79.7,PUC,Science
+1374,9th,female,71,73,79,83,88,83.98,Polytechnic,English
+1375,9th,male,64,62,80,76,81,79.56,PUC,Commerce
+1376,9th,female,76,67,80,71,71,78.54,Diplomma,Accounting
+1377,9th,female,67,46,80,71,82,77.76,PUC,Arts
+1378,9th,female,68,72,81,71,86,83.06,Polytechnic,Fashion Designing
+1379,9th,male,73,80,83,85,79,84.04,Polytechnic,Science
+1380,9th,female,77,64,83,64,95,85.29,PUC,Computers
+1381,9th,female,76,75,83,85,88,85.04,Diplomma,Science
+1382,9th,male,87,98,83,93,95,87.04,PUC,English
+1383,9th,male,63,73,83,61,72,74.17,Polytechnic,Commerce
+1384,9th,male,82,90,83,90,77,82.71,PUC,Accounting
+1385,9th,female,67,62,83,85,82,81.29,Diplomma,Arts
+1386,9th,female,69,83,83,73,85,85.55,PUC,Computers
+1387,9th,female,85,83,85,88,85,86.43,PUC,Science
+1388,9th,female,73,61,85,80,90,85.11,Diplomma,Hospital Management
+1389,9th,female,72,76,85,85,91,81.3,PUC,Science
+1390,9th,female,80,75,85,83,86,84.01,PUC,English
+1391,9th,male,62,73,85,76,79,83.19,Diplomma,Commerce
+1392,9th,female,88,78,85,95,97,90.66,PUC,Accounting
+1393,10th,female,74,81,86,87,82,83.94,PUC,Arts
+1394,10th,female,64,55,86,71,67,81.07,Diplomma,Fashion Designing
+1395,10th,female,84,62,86,80,78,81.61,PUC,Science
+1396,10th,female,80,78,87,90,90,87.85,PUC,Computers
+1397,10th,female,60,60,87,73,82,80.6,Diplomma,Science
+1398,10th,male,66,80,87,83,79,74.43,PUC,English
+1399,10th,female,68,80,87,92,80,83.15,PUC,Commerce
+1400,10th,female,67,71,87,80,87,82.55,Diplomma,Accounting
+1401,10th,male,82,72,87,77,82,79,PUC,Arts
+1402,10th,female,76,61,87,77,90,84.45,Polytechnic,Computers
+1403,10th,female,70,71,87,83,90,85.02,PUC,Science
+1404,10th,female,76,53,87,55,82,77.53,PUC,Hospital Management
+1405,10th,female,65,60,88,75,78,78.08,Diplomma,Science
+1406,10th,female,87,75,88,91,95,87.44,PUC,English
+1407,10th,female,69,68,88,78,78,81.71,Diplomma,Commerce
+1408,10th,female,75,80,88,64,86,85.72,PUC,Accounting
+1409,10th,female,93,71,88,85,91,88.35,PUC,Arts
+1410,10th,male,62,75,89,80,75,79.34,Diplomma,Fashion Designing
+1411,10th,female,62,66,89,93,84,84.7,PUC,Science
+1412,10th,male,66,60,89,66,76,78.39,PUC,Computers
+1413,10th,female,72,71,89,71,82,77.53,Diplomma,Science
+1414,10th,female,73,53,89,88,81,81.03,PUC,English
+1415,10th,female,81,71,90,68,79,83.79,Diplomma,Commerce
+1416,10th,male,95,76,90,87,86,86.37,PUC,Accounting
+1417,10th,female,81,80,90,83,94,87.3,PUC,Arts
+1418,10th,female,82,77,91,86,75,84.41,Diplomma,Computers
+1419,10th,female,82,90,91,93,93,93.06,PUC,Science
+1420,10th,female,76,88,91,80,89,87.3,PUC,Hospital Management
+1421,10th,female,85,75,91,92,92,87.42,Diplomma,Science
+1422,10th,female,88,72,92,85,94,84.33,PUC,English
+1423,10th,male,90,87,92,83,97,89.41,Diplomma,Commerce
+1424,10th,female,79,48,92,85,85,84.11,PUC,Accounting
+1425,10th,female,80,78,92,87,95,87.26,Polytechnic,Arts
+1426,10th,female,95,86,92,96,95,91.9,PUC,Fashion Designing
+1427,10th,female,91,68,92,87,92,87.77,Diplomma,Science
+1428,10th,female,73,73,92,94,92,84.68,PUC,Computers
+1429,10th,male,81,61,92,17,88,63.49,Polytechnic,Science
+1430,10th,female,87,87,92,92,90,89.95,PUC,English
+1431,10th,female,75,70,92,73,84,85.18,Diplomma,Commerce
+1432,10th,female,82,77,92,86,90,85.84,PUC,Accounting
+1433,10th,male,84,67,92,94,82,84.18,Polytechnic,Arts
+1434,10th,female,76,75,93,83,85,85,PUC,Computers
+1435,10th,female,94,81,93,90,91,90.62,Diplomma,Science
+1436,10th,female,92,73,94,87,94,87.12,PUC,Hospital Management
+1437,10th,female,83,87,94,88,79,84.63,Polytechnic,Science
+1438,10th,female,95,65,94,97,97,88.62,PUC,English
+1439,10th,female,84,86,94,94,94,87.87,Diplomma,Commerce
+1440,10th,male,77,60,94,78,88,86.01,PUC,Accounting
+1441,10th,male,87,92,95,81,89,89.46,Polytechnic,Arts
+1442,10th,female,92,86,95,94,95,86.96,PUC,Fashion Designing
+1443,10th,male,82,77,95,85,94,86.87,Diplomma,Science
+1444,10th,female,93,82,95,95,94,91.61,PUC,Computers
+1445,10th,female,89,86,96,96,96,88.54,Polytechnic,Science
+1446,10th,female,82,81,97,97,88,87.63,PUC,English
+1447,10th,male,94,100,97,96,95,91.74,Diplomma,Commerce
+1448,10th,male,98,90,97,98,83,91.14,PUC,Accounting
+1449,10th,male,84,82,97,99,89,90.31,Polytechnic,Arts
+1450,10th,male,87,70,97,95,91,88.1,PUC,Computers
+1451,10th,female,87,83,98,92,93,88.34,Diplomma,Science
+1452,10th,male,98,77,98,95,96,89.84,PUC,Hospital Management
+1453,10th,male,83,80,98,91,93,88.82,Polytechnic,Science
+1454,10th,male,92,82,99,91,94,86.6,PUC,English
+1455,10th,male,93,97,100,99,97,93.71,Diplomma,Commerce
